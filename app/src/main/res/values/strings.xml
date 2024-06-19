@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DAM_UC3_TenorioJhonny</string>
+    <string name="lbl_registrate">Regístrate</string>
+    <string name="lbl_gratis">Es gratis (y lo seguirá siendo).</string>
+    <string name="lbl_nombre">Nombre:</string>
+    <string name="txt_nombre" />
+    <string name="lbl_Apellido">Apellidos:</string>
+    <string name="lbl_apellido" />
+    <string name="lbl_direccion">Tu dirección de correo electrónico:</string>
+    <string name="lbl_contraseña">Contraseña Nueva:</string>
+    <string name="lbl_Sexo">Sexo:</string>
+    <string name="txt_sexo" />
+    <string name="lbl_fnac">Fecha de Nacimiento:</string>
+    <string name="txt_mes" />
+    <string name="txt_ano" />
+    <string name="lbl_porque">¿Por qué tengo que dar esa información?</string>
+    <string name="btn_registro">Regístrate</string>
+    <string name="lbl_crear_pagin">Crear una página</string>
+    <string name="lbl_fottr2">para un famoso,grupo de música o empresa.</string>
+</resources>
